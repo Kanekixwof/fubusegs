@@ -115,7 +115,7 @@ async def cbstart(_, query: CallbackQuery):
                 [
                     InlineKeyboardButton(
                         text="Manager",
-                        url="https://itz_Erwin_Smith",
+                        url="https://fubukilll",
                     )
                 ],
             ]
